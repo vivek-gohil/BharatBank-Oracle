@@ -1,0 +1,37 @@
+Day 1
+	1.DDL - Data defination language
+	2.DML - Data Manip. language
+	3.Constraints 
+		a.Primary key
+		b.foregin key
+		c.Not null
+		d.Check
+		e.Unique
+		f.Default
+	4.Assingments
+Day 2
+	1.Querying Data
+	2.Sorting Data
+	3.Filtering Data
+	4.Joins
+	5.Grouping Data
+	6.Subquery
+	8.Assingments
+Day 3
+	1. Set Operators
+	2. Oracle Built-in funcations
+		a.String functions
+		b.Date functions
+		c.Agg functions	
+	3. Views
+	4. Index
+	5. Sequences
+	6. PL SQL 
+		a. Anonymous Block : Variables and Constants
+		b. Loops
+		c. Conditional Constructs
+		d. Select Into
+	7. Oracle Database Administrator 
+	
+		
+	
