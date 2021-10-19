@@ -1,0 +1,14 @@
+Create a table as :: ProductMaster (product_id(primary key) ,name,price)
+Insert 10 recoreds
+--Create PL/SQL Block For
+	1. Accept product_id , name , price from user and insert the details into productmaster table.
+
+	2. Accept product_id and new name from user and update the product name by for the supplied product_id
+
+	3. Accept product_id and delete the product details 
+--Create Procedure for
+	1. Accept product_id , name , price from user and insert the details into productmaster table.
+
+	2. Accept product_id and new name from user and update the product name by for the supplied product_id
+
+	3. Accept product_id and delete the product details 
